@@ -10,6 +10,15 @@ git pull origin master
 
 git status
 
-#commit
+# add files
+
+git add folder/file
+
+
+#commit (local)
 
 git commit -m "comments"
+
+# commit to github
+
+git push
