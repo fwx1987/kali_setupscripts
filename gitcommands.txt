@@ -1,0 +1,15 @@
+#fetch 
+
+git fetch
+
+#pull updates
+
+git pull origin master
+
+#status
+
+git status
+
+#commit
+
+git commit -m "comments"
